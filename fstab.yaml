@@ -1,5 +1,4 @@
 mountpoints:
   /: 
-    url:  https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/securbank-marisa/sol-sc-boilerplate?csf=1&web=1&e=GYwddj
-    type: markup
+    url:  https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/marisa-securbank?csf=1&web=1&e=QKWYqP
     suffix: ".html?wcmmode=disabled"
